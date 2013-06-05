@@ -1,7 +1,7 @@
 Code for each one of the Arduino based "Alebrijes" modules. 
 
-See below links for more info:
-http://counterprotocol.org/#project/1
+See below links for more info:<br>
+http://counterprotocol.org/#project/1<br>
 https://vimeo.com/59217387
 
 
